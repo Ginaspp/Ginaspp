@@ -18,7 +18,7 @@ Me considero una persona creativa, me gusta aprender constantemente y busco mejo
 
 
 ## 🔗 Contactame
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ginaspp.github.io/ubiquitous-engine/portafolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gina-pereyra-pellin-723700248/)
 [![gmail](https://img.shields.io/badge/Gmail-ginapereyrapellin@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](ginapereyrapellin@gmail.com)
 
