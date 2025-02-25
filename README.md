@@ -1,6 +1,6 @@
 # Hola, soy Gina  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ### FullStack Developer 🚀
-Soy programadora junior, tengo 25 años y soy de Córdoba-Argentina.
+Soy programadora junior, tengo 26 años y soy de Córdoba-Argentina.
 
 Me considero una persona creativa, me gusta aprender constantemente y busco mejorar cada día.
 
